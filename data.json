@@ -221,5 +221,10 @@
   {
     "title": "Neo blue pills (3 bottles)",
     "trinity_paid": 305
+  },
+  {
+    "title": "Test expense",
+    "neo_paid": 123,
+    "trinity_paid": 456
   }
 ]
