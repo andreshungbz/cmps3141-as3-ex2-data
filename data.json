@@ -166,13 +166,5 @@
     "initiator": "neo",
     "recipient": "joint",
     "amount": 2600
-  },
-  {
-    "id": 1758900801855,
-    "title": "new kicks",
-    "date": "2025-09-26",
-    "initiator": "neo",
-    "recipient": "joint-p",
-    "amount": 5000
   }
 ]
