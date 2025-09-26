@@ -160,11 +160,11 @@
     "amount": 350.51
   },
   {
-    "id": 1758896176654,
-    "title": "test trinity",
-    "date": "2025-06-18",
-    "initiator": "trinity",
+    "id": 21,
+    "title": "Joint credit card Jan 2022",
+    "date": "2025-08-21",
+    "initiator": "neo",
     "recipient": "joint",
-    "amount": 50
+    "amount": 2600
   }
 ]
