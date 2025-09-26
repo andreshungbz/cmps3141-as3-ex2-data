@@ -48,6 +48,14 @@
     "amount": 3553
   },
   {
+    "id": 7,
+    "title": "Joint credit card Oct 2023",
+    "date": "2025-08-07",
+    "initiator": "trinity",
+    "recipient": "joint",
+    "amount": 4984
+  },
+  {
     "id": 8,
     "title": "Trinity implant payment 2",
     "date": "2025-08-08",
@@ -78,6 +86,14 @@
     "initiator": "neo",
     "recipient": "trinity",
     "amount": 200
+  },
+  {
+    "id": 12,
+    "title": "Neo new boots ",
+    "date": "2025-08-12",
+    "initiator": "trinity",
+    "recipient": "neo",
+    "amount": 56
   },
   {
     "id": 13,
@@ -150,13 +166,5 @@
     "initiator": "neo",
     "recipient": "joint",
     "amount": 2600
-  },
-  {
-    "id": 1758908462897,
-    "title": "test 2",
-    "date": "2025-09-26",
-    "initiator": "trinity",
-    "recipient": "joint",
-    "amount": 500
   }
 ]
