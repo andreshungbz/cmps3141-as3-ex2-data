@@ -40,14 +40,6 @@
     "amount": 922
   },
   {
-    "id": 6,
-    "title": "Rent Oct 2023",
-    "date": "2025-08-06",
-    "initiator": "trinity",
-    "recipient": "joint",
-    "amount": 3553
-  },
-  {
     "id": 7,
     "title": "Joint credit card Oct 2023",
     "date": "2025-08-07",
@@ -166,5 +158,13 @@
     "initiator": "neo",
     "recipient": "joint-p",
     "amount": 2600
+  },
+  {
+    "id": 6,
+    "title": "Rent Oct 2023",
+    "date": "2025-08-06",
+    "initiator": "trinity",
+    "recipient": "joint-p",
+    "amount": 3553
   }
 ]
