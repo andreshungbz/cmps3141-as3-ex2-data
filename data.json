@@ -166,13 +166,5 @@
     "initiator": "neo",
     "recipient": "joint",
     "amount": 2600
-  },
-  {
-    "id": 1758908169904,
-    "title": "coolio",
-    "date": "2025-06-18",
-    "initiator": "trinity",
-    "recipient": "joint",
-    "amount": 234
   }
 ]
