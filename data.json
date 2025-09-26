@@ -190,5 +190,13 @@
     "initiator": "neo",
     "recipient": "joint",
     "amount": 4345
+  },
+  {
+    "id": 1758864410085,
+    "title": "personal",
+    "date": "2025-09-25",
+    "initiator": "neo",
+    "recipient": "neo",
+    "amount": 23423
   }
 ]
