@@ -166,13 +166,5 @@
     "initiator": "neo",
     "recipient": "joint",
     "amount": 2600
-  },
-  {
-    "id": 1758862901257,
-    "title": "eter",
-    "date": "2025-09-25",
-    "initiator": "neo",
-    "recipient": "joint",
-    "amount": 500
   }
 ]
