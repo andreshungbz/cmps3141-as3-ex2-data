@@ -166,37 +166,5 @@
     "initiator": "neo",
     "recipient": "joint",
     "amount": 2600
-  },
-  {
-    "id": 1758860415552,
-    "title": "test",
-    "date": "2025-09-25",
-    "initiator": "neo",
-    "recipient": "joint",
-    "amount": 500
-  },
-  {
-    "id": 1758860509795,
-    "title": "test 2",
-    "date": "2025-09-25",
-    "initiator": "neo",
-    "recipient": "joint",
-    "amount": 600
-  },
-  {
-    "id": 1758860753460,
-    "title": "test 3",
-    "date": "2025-09-25",
-    "initiator": "neo",
-    "recipient": "trinity",
-    "amount": 234
-  },
-  {
-    "id": 1758860923983,
-    "title": "test 4",
-    "date": "2025-09-25",
-    "initiator": "neo",
-    "recipient": "joint",
-    "amount": 496.6
   }
 ]
