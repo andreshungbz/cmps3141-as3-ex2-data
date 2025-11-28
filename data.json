@@ -150,13 +150,5 @@
     "initiator": "trinity",
     "recipient": "joint",
     "amount": 3553
-  },
-  {
-    "id": 20,
-    "title": "Joint credit card Jan 2022",
-    "date": "2025-08-20",
-    "initiator": "trinity",
-    "recipient": "joint",
-    "amount": 350.51
   }
 ]
